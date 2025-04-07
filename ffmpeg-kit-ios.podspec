@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'ffmpeg-kit-ios-full-gpl'
+  s.name             = 'ffmpeg-kit-ios'
   s.version = '6.0.0'
   s.summary          = 'FFmpeg Kit for iOS'
   s.description      = 'A'
