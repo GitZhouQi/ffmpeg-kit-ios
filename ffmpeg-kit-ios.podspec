@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ffmpeg-kit-ios'
-  s.version = '6.0.0'
+  s.version = '6.0.1'
   s.summary          = 'FFmpeg Kit for iOS'
   s.description      = 'A'
   s.homepage         = 'https://github.com/arthenica/ffmpeg-kit'
@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.static_framework    = true
     
   s.license            = { :type => "MIT", :file => "LICENSE" }
-  s.author             = { "SilenceLove" => "294005139@qq.com" }
+  s.author             = { "zq" => "zhouqi@wespoke.com" }
       
   s.source             = { :git => "https://github.com/GitZhouQi/ffmpeg-kit-ios", :tag => "#{s.version}" }
   
